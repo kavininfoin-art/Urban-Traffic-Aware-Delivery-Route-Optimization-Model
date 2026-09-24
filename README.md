@@ -1,0 +1,2 @@
+# Urban-Traffic-Aware-Delivery-Route-Optimization-Model
+Bro, if you mean **within 350 characters**, use this for GitHub:  > **An AI/ML-based system for predicting urban travel time using traffic, weather, road, and time-related factors. It combines machine learning with graph-based route optimization to identify efficient delivery routes and support intelligent, time-effective urban logistics planning.
